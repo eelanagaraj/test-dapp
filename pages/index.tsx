@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Test Dapp
         </h1>
 
         <p className={styles.description}>
@@ -24,7 +24,7 @@ export default function Home() {
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
-
+{/* 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
@@ -46,7 +46,7 @@ export default function Home() {
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
-          </a>
+          </a> */}
         </div>
       </main>
 
